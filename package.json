@@ -1,0 +1,13 @@
+{
+  "name": "fetchtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "api": "node agent_api.js"
+  },
+  "author": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
